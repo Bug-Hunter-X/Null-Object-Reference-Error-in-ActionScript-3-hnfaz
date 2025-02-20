@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 error: the null object reference error. The bug occurs when attempting to access a property or method of an object that has not been properly initialized or is null.  The solution showcases how to use proper null checks to prevent the error.
